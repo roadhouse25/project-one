@@ -1,8 +1,10 @@
-#main {
+.main {
    max-width: 200px;
     margin: 0 auto; 
     position: relative; 
-    position: center; 
+    position: center;  
+    padding: 50px; 
+    border-width: 5px; 
 }
 ul {
     font-family: 'Slabo 27px', serif; 
