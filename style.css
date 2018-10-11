@@ -1,6 +1,10 @@
+#main {
+    width: 500px;
+    margin: 0 auto;
+}
 ul {
     font-family: 'Slabo 27px', serif; 
 }
 h1, h2, h3, h4  {
     font-family: 'Roboto', sans-serif; 
-}
+} 
