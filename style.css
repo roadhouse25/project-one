@@ -12,3 +12,16 @@ ul {
 h1, h2, h3, h4  {
     font-family: 'Roboto', sans-serif; 
 } 
+
+.jon {
+    max-width: 200px;
+    margin: 0 auto; 
+    position: relative; 
+    position: center;  
+    padding: 50px; 
+    border-width: 5px; 
+} 
+
+* {
+background-color: grey; 
+}
