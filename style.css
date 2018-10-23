@@ -19,7 +19,8 @@ h1, h2, h3, h4  {
     position: relative; 
     position: center;  
     padding: 50px; 
-    border-width: 5px; 
+    border-width: 5px;  
+    text-align: center; 
 } 
 
 * {
