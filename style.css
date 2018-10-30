@@ -1,28 +1,46 @@
 .main {
-   max-width: 200px;
-    margin: 0 auto; 
+   max-width: 100px;
+    margin: 0 20px; 
     position: relative; 
-    position: center;  
-    padding: 50px; 
+    position: left;  
+    padding: 5px; 
     border-width: 5px; 
 }
 ul {
     font-family: 'Slabo 27px', serif; 
 }
 h1, h2, h3, h4  {
-    font-family: 'Roboto', sans-serif; 
+    font-family: 'Roboto', sans-serif;  
+    align: center; 
 } 
 
-.jon {
-    max-width: 200px;
-    margin: 0 auto; 
-    position: relative; 
-    position: center;  
-    padding: 50px; 
-    border-width: 5px;  
-    text-align: center; 
+#jon {
+    text-align: center;  
+    margin: 0 auto;  
+    padding-top: 10px; 
+    padding-bottom: 50px; 
 } 
 
 * {
 background:orange; 
+}
+
+img {
+    width: auto; 
+    margin: 0 auto;  
+    padding-top: 5%; 
+    } 
+
+#Notable {
+    max-width: 200px;
+     margin: 0 20px; 
+     position: relative; 
+     position: left;  
+     padding: 5px;  
+     border-width: 5px;   
+     display: inline; 
+} 
+
+fieldset {
+    border: white solid 2px; 
 }
